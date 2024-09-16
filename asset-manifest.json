@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jpmc-attendance/static/css/main.60202457.css",
+    "main.js": "/jpmc-attendance/static/js/main.d96f199a.js",
+    "static/js/453.16d890a3.chunk.js": "/jpmc-attendance/static/js/453.16d890a3.chunk.js",
+    "index.html": "/jpmc-attendance/index.html",
+    "main.60202457.css.map": "/jpmc-attendance/static/css/main.60202457.css.map",
+    "main.d96f199a.js.map": "/jpmc-attendance/static/js/main.d96f199a.js.map",
+    "453.16d890a3.chunk.js.map": "/jpmc-attendance/static/js/453.16d890a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60202457.css",
+    "static/js/main.d96f199a.js"
+  ]
+}
